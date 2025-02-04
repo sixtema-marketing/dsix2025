@@ -44,7 +44,9 @@
         "type": "typography"
       },
       "font-size": {
-        "value": "32px",
+        "value": {
+          "fontSize": "32px"
+        },
         "type": "typography"
       },
       "line-height": {
