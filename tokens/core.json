@@ -1,1 +1,48 @@
-{}
+{
+  "button": {
+    "background": {
+      "value": "hsl(217, 91%, 60%)",
+      "type": "other"
+    },
+    "text": {
+      "value": "hsl(0, 0%, 100%)",
+      "type": "other"
+    },
+    "border-radius": {
+      "value": "24px",
+      "type": "other"
+    },
+    "padding": {
+      "vertical": {
+        "value": "16px",
+        "type": "other"
+      },
+      "horizontal": {
+        "value": "32px",
+        "type": "other"
+      }
+    },
+    "typography": {
+      "font-family": {
+        "value": "Inter",
+        "type": "other"
+      },
+      "font-weight": {
+        "value": "700",
+        "type": "other"
+      },
+      "font-size": {
+        "value": "32px",
+        "type": "other"
+      },
+      "line-height": {
+        "value": "40px",
+        "type": "other"
+      }
+    },
+    "shadow": {
+      "value": "none",
+      "type": "other"
+    }
+  }
+}
