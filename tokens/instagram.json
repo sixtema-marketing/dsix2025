@@ -19,15 +19,23 @@
           "type": "color"
         }
       }
-    },
+    }
+  },
+  "borderRadius": {
+    "button": {
+      "value": "24px",
+      "type": "borderRadius"
+    }
+  },
+  "instagram": {
     "spacing": {
       "button": {
         "padding-vertical": {
-          "value": "16px",
+          "value": "40px",
           "type": "spacing"
         },
         "padding-horizontal": {
-          "value": "32px",
+          "value": "80px",
           "type": "spacing"
         }
       }
@@ -40,7 +48,7 @@
         },
         "font-size": {
           "value": {
-            "fontSize": "32"
+            "fontSize": "12"
           },
           "type": "typography"
         },
@@ -55,12 +63,6 @@
           "type": "typography"
         }
       }
-    }
-  },
-  "borderRadius": {
-    "button": {
-      "value": "24px",
-      "type": "borderRadius"
     }
   },
   "shadow": {
