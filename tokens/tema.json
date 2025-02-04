@@ -2,15 +2,15 @@
   "color": {
     "button": {
       "background": {
-        "value": "hsl(217, 91%, 60%)",
+        "value": "#f56f3b",
         "type": "color"
       },
       "background-hover": {
-        "value": "hsl(217, 91%, 55%)",
+        "value": "#f56025",
         "type": "color"
       },
       "background-active": {
-        "value": "hsl(217, 91%, 50%)",
+        "value": "#a25413",
         "type": "color"
       },
       "text": {
@@ -21,7 +21,7 @@
   },
   "borderRadius": {
     "button": {
-      "value": "24px",
+      "value": "4px",
       "type": "borderRadius"
     }
   },
@@ -53,7 +53,7 @@
       },
       "font-family": {
         "value": {
-          "fontFamily": "Inter"
+          "fontFamily": "Gochi Hand"
         },
         "type": "typography"
       }
