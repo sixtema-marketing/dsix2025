@@ -1,7 +1,10 @@
 {
   "tokenSetOrder": [
-    "core",
-    "instagram",
-    "tema"
+    "global-lib / core",
+    "global-lib / system",
+    "brand-lib / brand-source",
+    "semantic-lib / style",
+    "theme-lib / on-dark",
+    "theme-lib / on-light"
   ]
 }
