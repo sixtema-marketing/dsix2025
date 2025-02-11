@@ -1,1 +1,300 @@
-{}
+{
+  "light": {
+    "first": {
+      "main": {
+        "value": "{light.first}",
+        "type": "color"
+      }
+    },
+    "tint": {
+      "5": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.5}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "10": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.10}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "20": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.20}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "30": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.30}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "40": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.40}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "50": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.50}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "60": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.60}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "70": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.70}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "80": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.80}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "90": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.90}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "95": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{modifier.95}",
+              "space": "hsl"
+            }
+          }
+        }
+      }
+    },
+    "shade": {
+      "5": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.5}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "10": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.10}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "20": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.20}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "30": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.30}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "40": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.40}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "50": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.50}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "60": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.60}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "70": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.70}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "80": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.80}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "90": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.90}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "95": {
+        "value": "{light.first}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{modifier.95}",
+              "space": "hsl"
+            }
+          }
+        }
+      }
+    }
+  }
+}

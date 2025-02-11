@@ -1,1 +1,30 @@
-{}
+{
+  "light": {
+    "first": {
+      "value": "#ecb968",
+      "type": "color"
+    },
+    "second": {
+      "value": "#a695ff",
+      "type": "color"
+    },
+    "third": {
+      "value": "#aeffb6",
+      "type": "color"
+    }
+  },
+  "dark": {
+    "first": {
+      "value": "#522f2f",
+      "type": "color"
+    },
+    "second": {
+      "value": "#1a1242",
+      "type": "color"
+    },
+    "third": {
+      "value": "#1e5f24",
+      "type": "color"
+    }
+  }
+}
