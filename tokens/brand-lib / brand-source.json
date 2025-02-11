@@ -26,5 +26,11 @@
       "value": "#1e5f24",
       "type": "color"
     }
+  },
+  "predominant": {
+    "color": {
+      "value": "{light.first}",
+      "type": "color"
+    }
   }
 }
