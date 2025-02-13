@@ -13,7 +13,7 @@ jobs:
       - name: Repo File Sync Action
         uses: BetaHuhn/repo-file-sync-action@v1.17.21
         with:
-          GH_PAT: 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
+          GH_PAT: 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
           PR_LABELS: |
                 Brands Json and Directory Sync
           SKIP_PR: true
