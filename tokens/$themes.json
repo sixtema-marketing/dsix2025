@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "global-lib / core": "source",
       "global-lib / system": "enabled",
-      "brand-lib / brand-source": "source"
+      "brand-lib / brand-source": "source",
+      "global-lib / core_Copy": "disabled"
     }
   }
 ]

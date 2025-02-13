@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "global-lib / core",
+    "global-lib / core_Copy",
     "global-lib / system",
     "brand-lib / brand-source",
     "semantic-lib / style",
