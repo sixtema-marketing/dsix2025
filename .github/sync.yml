@@ -1,0 +1,9 @@
+group:
+  repos: |
+    usuario/repo1
+    usuario/repo2
+    usuario/repo3
+  files:
+    - source: pasta-origem/
+    - source: outra-pasta/
+      replace: true
