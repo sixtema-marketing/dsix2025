@@ -4,6 +4,7 @@ group:
     usuario/repo2
     usuario/repo3
   files:
-    - source: pasta-origem/
-    - source: outra-pasta/
+    - source: dsix2025/tokens/global-lib/
+    - source: dsix2025/tokens/semantic-lib/
+    - source: dsix2025/tokens/theme-lib/
       replace: true
