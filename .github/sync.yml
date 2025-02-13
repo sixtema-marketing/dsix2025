@@ -1,8 +1,6 @@
 group:
   repos: |
-    usuario/repo1
-    usuario/repo2
-    usuario/repo3
+    sixtema-marketing/dsix2025@sixtema
   files:
     - source: dsix2025/tokens/global-lib/
     - source: dsix2025/tokens/semantic-lib/
