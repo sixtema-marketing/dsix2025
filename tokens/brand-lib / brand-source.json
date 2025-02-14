@@ -32,5 +32,128 @@
       "value": "{light.first}",
       "type": "color"
     }
+  },
+  "fontfamily": {
+    "first": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "second": {
+      "value": "Arial",
+      "type": "fontFamilies"
+    },
+    "third": {
+      "value": "Poppins",
+      "type": "fontFamilies"
+    },
+    "code": {
+      "value": "Roboto Mono",
+      "type": "fontFamilies"
+    },
+    "hand": {
+      "value": "Gochi Hand",
+      "type": "fontFamilies"
+    }
+  },
+  "fontweight": {
+    "thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "thin-italic": {
+      "value": "Thin Italic",
+      "type": "fontWeights"
+    },
+    "light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "light-italic": {
+      "value": "Light Italic",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "regular-italic": {
+      "value": "Regular Italic",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "bold-italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights"
+    },
+    "black": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "black-italic": {
+      "value": "Black Italic",
+      "type": "fontWeights"
+    }
+  },
+  "Teste": {
+    "value": {
+      "fontWeight": "{fontweight.thin-italic}",
+      "fontFamily": "{fontfamily.first}"
+    },
+    "type": "typography"
+  },
+  "lineheight": {
+    "default": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "verystrait": {
+      "value": "80%",
+      "type": "lineHeights"
+    },
+    "strait": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "medium": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "large": {
+      "value": "180%",
+      "type": "lineHeights"
+    },
+    "verylarge": {
+      "value": "200%",
+      "type": "lineHeights"
+    },
+    "auto": {
+      "value": "auto",
+      "type": "lineHeights"
+    }
+  },
+  "letterspacing": {
+    "default": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "verystrait": {
+      "value": "-5%",
+      "type": "letterSpacing"
+    },
+    "strait": {
+      "value": "-2,5%",
+      "type": "letterSpacing"
+    },
+    "large": {
+      "value": "25%",
+      "type": "letterSpacing"
+    },
+    "verylarge": {
+      "value": "50%",
+      "type": "letterSpacing"
+    }
   }
 }

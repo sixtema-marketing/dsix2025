@@ -7,6 +7,7 @@
       "global-lib / core": "source",
       "global-lib / system": "enabled",
       "brand-lib / brand-source": "source"
-    }
+    },
+    "$figmaVariableReferences": {}
   }
 ]
