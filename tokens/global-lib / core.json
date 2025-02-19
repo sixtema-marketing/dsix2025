@@ -1472,5 +1472,59 @@
       "value": "1rem",
       "type": "fontSizes"
     }
+  },
+  "typescale": {
+    "name": {
+      "goldenratio": {
+        "value": "1.618",
+        "type": "other"
+      },
+      "minorsecond": {
+        "value": "1.067",
+        "type": "other"
+      },
+      "majorsecond": {
+        "value": "1.125",
+        "type": "other"
+      },
+      "minorthird": {
+        "value": "1.200",
+        "type": "other"
+      },
+      "majorthird": {
+        "value": "1.250",
+        "type": "other"
+      },
+      "perfectfourth": {
+        "value": "1.333",
+        "type": "other"
+      },
+      "augmentedfourth": {
+        "value": "1.414",
+        "type": "other"
+      },
+      "perfectfifth": {
+        "value": "1.500",
+        "type": "other"
+      }
+    },
+    "group": {
+      "heading": {
+        "value": "{typescale.name.majorsecond}",
+        "type": "other"
+      },
+      "body": {
+        "value": "{typescale.name.majorsecond}",
+        "type": "other"
+      },
+      "caption": {
+        "value": "{typescale.name.majorsecond}",
+        "type": "other"
+      },
+      "outer": {
+        "value": "{typescale.name.majorsecond}",
+        "type": "other"
+      }
+    }
   }
 }
