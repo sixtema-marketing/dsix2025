@@ -1,11 +1,11 @@
 {
   "light": {
     "first": {
-      "value": "#ecb968",
+      "value": "#0099FF",
       "type": "color"
     },
     "second": {
-      "value": "#a695ff",
+      "value": "#FEE502",
       "type": "color"
     },
     "third": {
@@ -15,7 +15,7 @@
   },
   "dark": {
     "first": {
-      "value": "#522f2f",
+      "value": "#0F1494",
       "type": "color"
     },
     "second": {
