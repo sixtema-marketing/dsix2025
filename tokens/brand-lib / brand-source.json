@@ -5,7 +5,7 @@
       "type": "color"
     },
     "second": {
-      "value": "#F7F7F7",
+      "value": "#a695ff",
       "type": "color"
     },
     "third": {
@@ -15,7 +15,7 @@
   },
   "dark": {
     "first": {
-      "value": "#121212",
+      "value": "#1C1C1C",
       "type": "color"
     },
     "second": {
