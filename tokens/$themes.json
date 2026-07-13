@@ -4,8 +4,8 @@
     "name": "System",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global-lib / core": "source",
-      "global-lib / system": "enabled",
+      "core": "source",
+      "system": "enabled",
       "brand-lib / brand-source": "source"
     }
   }
