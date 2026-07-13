@@ -1,29 +1,21 @@
 {
   "light": {
     "first": {
-      "value": "#ecb968",
+      "value": "#DEDAD3",
       "type": "color"
     },
     "second": {
-      "value": "#a695ff",
-      "type": "color"
-    },
-    "third": {
-      "value": "#aeffb6",
+      "value": "#BEB19A",
       "type": "color"
     }
   },
   "dark": {
     "first": {
-      "value": "#522f2f",
+      "value": "#B78146",
       "type": "color"
     },
     "second": {
-      "value": "#1a1242",
-      "type": "color"
-    },
-    "third": {
-      "value": "#1e5f24",
+      "value": "#121921",
       "type": "color"
     }
   },
